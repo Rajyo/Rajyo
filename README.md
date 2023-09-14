@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **NextJS, TypeScript**
 
-- 👨‍💻 All of my projects are available at [portfolio.vercel.com](portfolio.vercel.com)
+- 👨‍💻 All of my projects are available at [portfolio.vercel.com](https://portfolio-3d-qfcs.vercel.app/)
 
 - 💬 Ask me about **MERN, Django Rest Framework**
 
