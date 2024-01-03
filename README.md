@@ -5,7 +5,7 @@
 
 &nbsp;
 
-- 🔭 I’m currently working on **MERN Stack Projects**
+- 🔭 I’m currently working on **MERN Stack and T3 Stack**
 
 - 🌱 I’m currently learning **NextJS, TypeScript**
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [resume](https://tinyurl.com/kPrajyot)
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **I AM BATMAN**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
