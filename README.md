@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [portfolio](https://portfolio-3d-qfcs.vercel.app/)
 
-- 💬 Ask me about **MERN, Django Rest Framework**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **prajyotkhadse7@gmail.com**
 
