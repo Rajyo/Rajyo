@@ -5,7 +5,7 @@
 
 &nbsp;
 
-- 🔭 I’m currently working on **MERN and T3 Stack Projects**
+- 🔭 I’m currently working on **MERN, MEAN and T3 Stack Projects**
 
 - 🌱 I’m currently learning **Angular, NextJS**
 
