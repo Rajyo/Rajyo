@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **MERN, MEAN and T3 Stack Projects**
 
-- 🌱 I’m currently learning **Angular, NextJS**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [portfolio](https://portfolio-3d-qfcs.vercel.app/)
 
