@@ -5,7 +5,7 @@
 
 &nbsp;
 
-- 🔭 I’m currently working on **MERN, MEAN and T3 Stack Projects**
+- 🔭 I’m currently working on **React Native Pet Adoption Project**
 
 - 🌱 I’m currently learning **React Native**
 
