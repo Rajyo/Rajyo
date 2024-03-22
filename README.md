@@ -5,9 +5,9 @@
 
 &nbsp;
 
-- 🔭 I’m currently working on **React Native Pet Adoption Project**
+- 🔭 I’m currently working on **Serverless Backends**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **AWS**
 
 - 👨‍💻 All of my projects are available at [portfolio](https://portfolio-3d-qfcs.vercel.app/)
 
