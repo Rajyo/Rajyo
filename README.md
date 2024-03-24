@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prajyot Khadse</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate full stack web and mobile developer from India</h3>
 
 <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="coding" width="450px" align="right"/>
 
