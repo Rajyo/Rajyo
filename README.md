@@ -5,7 +5,7 @@
 
 &nbsp;
 
-- 🔭 I’m currently working on **Serverless Backends**
+- 🔭 I’m currently working on **Next.js**
 
 - 🌱 I’m currently learning **AWS**
 
