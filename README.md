@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **prajyotkhadse7@gmail.com**
 
-- 📄 Know about my experiences [resume](https://tinyurl.com/PrajyotResume)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1Y6ZFRWk2mMyD88YpUqkxgx_G6HKD1ESL/view?usp=sharing)
 
 - ⚡ Fun fact **I AM BATMAN**
 
