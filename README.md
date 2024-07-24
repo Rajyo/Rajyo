@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 👨‍💻 All of my projects are available at [portfolio](https://portfolio-3d-qfcs.vercel.app/)
+- 👨‍💻 All of my projects are available at [portfolio](https://prajyot-khadse.vercel.app/)
 
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **prajyotkhadse7@gmail.com**
 
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1Y6ZFRWk2mMyD88YpUqkxgx_G6HKD1ESL/view?usp=sharing)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1q_Vw1sgRfmILG-UHcn4wsvZWaVrEnW-p/view?usp=sharing)
 
 - ⚡ Fun fact **I AM BATMAN**
 
