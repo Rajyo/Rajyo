@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Next.js**
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently exploring **DevOps**
 
 - 👨‍💻 All of my projects are available at [portfolio](https://prajyot-khadse.vercel.app/)
 
