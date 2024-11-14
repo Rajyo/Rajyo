@@ -7,15 +7,13 @@
 
 - 🔭 I’m currently working on **Next.js**
 
-- 🌱 I’m currently exploring **DevOps**
+- 🌱 I’m currently exploring **web3**
 
 - 👨‍💻 All of my projects are available at [portfolio](https://prajyot-khadse.vercel.app/)
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Web Development, DevOps, web3**
 
 - 📫 How to reach me **prajyotkhadse7@gmail.com**
-
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1q_Vw1sgRfmILG-UHcn4wsvZWaVrEnW-p/view?usp=sharing)
 
 - ⚡ Fun fact **I AM BATMAN**
 
