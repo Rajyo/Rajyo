@@ -13,7 +13,7 @@
   <tbody>
     <tr>
       <td><b>Portfolio3.0 | Modern & Minimal Developer Portfolio </b></a></td>
-      <td><a href="https://prajyot-khadse-portfolio.vercel.app/"><b>Live at</b></a></td>
+      <td><a href="https://prajyotkhadse.com/"><b>Live at</b></a></td>
     </tr>
     <tr>
       <td><b>Shutter Stories | Photography Portfolio of Samuel Spenser </b></a></td>
